@@ -11,7 +11,7 @@
 
 ## 📁 Project Structure:
 ...   
-   address-search-app/
+address-search-app/
 ...   
 ├── index.js
 ├── package.json
