@@ -12,6 +12,7 @@
 ## 📁 Project Structure:
 ...   
    address-search-app/
+...   
 ├── index.js
 ├── package.json
 └── .env
