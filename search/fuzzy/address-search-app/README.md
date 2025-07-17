@@ -9,7 +9,7 @@
 
 -Fuzzy search works via FT.SEARCH using the ~ operator.
 
-   ## 📁 Project Structure:
+## 📁 Project Structure:
 ...   
    address-search-app/
 ├── index.js
