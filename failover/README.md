@@ -41,10 +41,10 @@ class Program
 ```
 ## 🛡 Features:
 
--Circuit breaker handles repeated failures and prevents flooding failing servers.
+✅ Circuit breaker handles repeated failures and prevents flooding failing servers.
 
--Failover logic switches endpoints on failure.
+✅ Failover logic switches endpoints on failure.
 
--Simple retry logic built on top of Polly.
+✅ Simple retry logic built on top of Polly.
 
--Easily extensible with exponential backoff, logging, or metrics.
+✅ Easily extensible with exponential backoff, logging, or metrics.
