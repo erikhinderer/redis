@@ -1,4 +1,4 @@
-# Redis .NET Client Failover for Redis A/A Clusters
+# Redis .NET Client Failover for Redis Enterprise Active / Active Clusters
 
 ### Example C# app for a Redis Enterprise Active / Active Cluster
 
