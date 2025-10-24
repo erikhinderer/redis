@@ -8,7 +8,7 @@
 
 ## 📁 Project Structure:
 ```
-address-search-app/
+failover-app/
 ├── README.md
 └── redis-python-client-failover.py
 ```
