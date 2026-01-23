@@ -18,3 +18,4 @@ runtime dataset so future upgrades/restore actions do not wipe runtime data. Use
 isolation.
 
 ## Recommended pattern (detailed)
+Visit my [GitHub Docs](https://docs.github.com "Comprehensive GitHub documentation").
