@@ -18,4 +18,4 @@ runtime dataset so future upgrades/restore actions do not wipe runtime data. Use
 isolation.
 
 ## Recommended pattern (detailed)
-Visit my [GitHub Docs]([https://docs.github.com](https://github.com/erikhinderer/redis/blob/fa915889f74442ffc1c1232aa0d9ed43d543dc3d/data-distrubution-best-practices/Redis%20Data%20Distribution%20Best%20Practices%20for%20Distributed%20Systems%20Archtectures.pdf) "Redis Data Distribution Best Practices for Distributed Systems Archtectures").
+Visit my [GitHub Docs](https://github.com/erikhinderer/redis/blob/fa915889f74442ffc1c1232aa0d9ed43d543dc3d/data-distrubution-best-practices/Redis%20Data%20Distribution%20Best%20Practices%20for%20Distributed%20Systems%20Archtectures.pdf) "Redis Data Distribution Best Practices for Distributed Systems Archtectures").
